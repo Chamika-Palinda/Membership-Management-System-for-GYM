@@ -1,5 +1,9 @@
 # Membership-Management-System-for-GYM
 
+<h2>Project Graphical User Interface</h2>
+
+![gym1](https://user-images.githubusercontent.com/76664856/112300330-bb5c5f00-8cbe-11eb-8967-762273f7e3d7.PNG)
+
 <h2>Project WorkFlow</h2>
 
 <ul>
